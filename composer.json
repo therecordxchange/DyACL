@@ -1,10 +1,10 @@
 {
-    "name": "ghost098/dyacl",
-    "description": "DyACL is a dynamic implementation of ACL",
+    "name": "therecordxchange/dyacl",
+    "description": "DyACL is a dynamic implementation of ACL - from ghost098/dyacl",
     "authors": [
         {
-            "name": "Arash Tabriziyan",
-            "email": "a.tabriziyan@gmail.com"
+            "name": "Seth Markowitz",
+            "email": "seth@trxchange.com"
         }
     ],
     "version": "1.0",
@@ -13,7 +13,7 @@
         "phpunit/phpunit": "3.7.*"
     },
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=8.0"
     },
     "autoload": {
         "psr-0": {
